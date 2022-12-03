@@ -27,7 +27,7 @@ Users should be able to:
 ## Links
 
 - Repositorie [UwU](https://github.com/XxtbmfxX/frontmentor_easy-landing)
-- Solution [UwU](https://github.com/)
+- Solution [OwO]([https://github.com/](https://xxtbmfxx.github.io/frontmentor_easy-landing/))
 
 ## My process
 
